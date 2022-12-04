@@ -1,4 +1,14 @@
 // Sticky Navigation Menu JS Code
+var typing = new Typed (".typing",{
+
+  strings : ["Java Developer", "Software Tester", "Digital Marketing","Freelancer" ],
+  typeSpeed:100,
+  backSpeed :60,
+  loop:true
+
+});
+
+// Sticky Navigation Menu JS Code
 let nav = document.querySelector("nav");
 let scrollBtn = document.querySelector(".scroll-button a");
 console.log(scrollBtn);

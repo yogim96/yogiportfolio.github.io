@@ -52,6 +52,7 @@ nav .navbar .logo a{
 nav.sticky .navbar .logo a{
   color: #fff;
 }
+
 nav .navbar .menu{
   display: flex;
   position: relative;
